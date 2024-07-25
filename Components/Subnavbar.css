@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.custom-navbar{
+    background-color: black;
+}
+.dropdown-menu{
+  background-color: black;
+}

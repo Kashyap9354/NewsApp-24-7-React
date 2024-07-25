@@ -1,0 +1,23 @@
+/* Card.css */
+.card-content {
+    display: flex; /* Use Flexbox */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .card-img {
+    height: 19rem;
+    width: 60%; /* Adjust width as needed */
+    object-fit: cover; /* Ensure the image covers its container */
+    margin: 1rem;
+  }
+  
+  .card-body {
+    width: 50%; /* Adjust width as needed */
+    padding: 1rem; /* Adjust padding as needed */
+  }
+  .card-all{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  

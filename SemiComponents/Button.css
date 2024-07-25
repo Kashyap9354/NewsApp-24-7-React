@@ -1,0 +1,13 @@
+/* Button.css */
+.custom-button {
+    background: none; /* Remove background */
+    border: none; /* Remove border */
+    color: white; /* Text color */
+    padding: 0; /* Remove padding */
+    cursor: pointer; /* Pointer cursor */
+  }
+  
+  .custom-button:hover {
+    border-bottom: 1px solid white; /* Add border on hover */
+  }
+  
